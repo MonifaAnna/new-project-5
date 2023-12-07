@@ -1,0 +1,141 @@
+nav{
+    display:flex;
+    justify-content: space-between;
+}
+.content{
+    display: flex;
+   font-weight: 700;
+    justify-content: space-between;
+    width:700px;
+    padding:60px;
+    align-items: center;
+    
+}
+   
+.head{
+    padding: 40px;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 200px;
+}
+
+.context{
+ margin-left: 30px;
+}
+.start{
+    padding: 40px;
+    margin-left: 200px;
+    font-weight: 700;
+    font-size: 20px;
+    
+   
+    
+}
+.contact{
+    font-size: 50px;
+}
+button{
+    background-color:red;
+    border-radius: 25px;
+    height: 44px;
+    width:196px;
+    color:white;
+    font-weight: 700;
+    font-size: 16px;
+    border:0px;
+    margin-top: 20px;
+}
+.second-sec{
+    display: flex;
+}
+.pic-1{
+    width:440px;
+    height: 414px;
+    background-image: url(practice-task/images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    margin-left: 300px;
+}
+.mid-sec{
+
+    width: 1110px;
+    height: 110px;
+    padding:20px;
+    margin-top: 60px;
+    margin-left: 245px;
+   
+}
+.mid-div{
+   
+   margin: 50px;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.last-mid{
+    width:1200px;
+    height: 1667px;
+    
+    margin: auto;
+
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 80px;
+}
+.sub-container{
+    width:329px;
+    height: 476px;
+    padding: 20px;
+    margin-left: 20px;
+    box-shadow: 20px 10px rgb(244, 235, 235);
+
+}
+.first{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    padding: 20px;
+                    
+}
+.high{
+    text-align: right;
+}
+#idea{
+    background-color: beige;
+    color:red;
+    font-size: 20px;
+}
+.last-sec{
+    width:1110px;
+    height: 270px;
+   margin-top: 50px;
+    display:flex;
+}
+.last-div{
+    margin-left: 100px;
+    font-size: 20px;
+    color:gray;
+}
+.last-head{
+    color:black;
+    font-weight: 700;
+    font-size: 30px;
+}
+footer{
+    background-color: rgb(8, 8, 53);
+    text-align: center;
+    
+    height: 300px;
+    color:white;
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#skill{
+    font-size: 20px;
+}
